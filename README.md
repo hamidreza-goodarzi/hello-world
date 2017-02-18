@@ -1,2 +1,3 @@
-# hello-world
-this is first repository
+<?php
+echo 'hello world!';
+?>
